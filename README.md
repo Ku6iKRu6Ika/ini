@@ -5,7 +5,7 @@ git clone https://github.com/Ku6iKRu6Ika/ini
 ```
 
 ## Quickstart
-```
+```python
 import ini
 
 content_ini = open('tests/test.ini', 'r').read()
